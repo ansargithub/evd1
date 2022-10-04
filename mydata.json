@@ -2,3 +2,46 @@
   {"CatId":1,"CatName":"Food"}, {"CatId":1,"CatName":"Fashion"}
   
 ]
+[
+  {
+  "CategoryId":1,
+ "CategoryDesc":"Food",
+  "CategoryGroup":"1",
+ "SeqOrder":1  
+},
+    {
+  "CategoryId":2,
+ "CategoryDesc":"Eat",
+  "CategoryGroup":"1",
+ "SeqOrder":2 
+},
+    {
+  "CategoryId":3,
+ "CategoryDesc":"Snacks",
+  "CategoryGroup":"1",
+ "SeqOrder":3  
+},
+    {
+  "CategoryId":4,
+ "CategoryDesc":"Fashions",
+  "CategoryGroup":"2",
+ "SeqOrder":4 
+},
+  {
+  "CategoryId":5,
+ "CategoryDesc":"Cosmetics",
+  "CategoryGroup":"2",
+ "SeqOrder":5 
+},
+  {
+  "CategoryId":6,
+ "CategoryDesc":"Medicines",
+  "CategoryGroup":"3",
+ "SeqOrder":1  
+},
+  {
+  "CategoryId":7,
+ "CategoryDesc":"Fruits & Nuts",
+  "CategoryGroup":"4",
+ "SeqOrder":1  
+}]

@@ -3,49 +3,48 @@
   "CategoryId":1,
  "CategoryDesc":"Food",
   "CategoryGroup":"1",
- "SeqOrder":1  ,
+ "SeqOrder":1 ,
   "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.png"
 },
     {
   "CategoryId":2,
  "CategoryDesc":"Eat",
   "CategoryGroup":"1",
- "SeqOrder":2 ,
+ "SeqOrder":2,
   "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.png"
 },
     {
   "CategoryId":3,
  "CategoryDesc":"Snacks",
   "CategoryGroup":"1",
- "SeqOrder":3 ,
+ "SeqOrder":3,
   "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic3.jpg"  
 },
     {
   "CategoryId":4,
  "CategoryDesc":"Fashions",
   "CategoryGroup":"2",
- "SeqOrder":4  ,
+ "SeqOrder":4 ,
   "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/picicon.jpg"
 },
   {
   "CategoryId":5,
  "CategoryDesc":"Cosmetics",
   "CategoryGroup":"2",
- "SeqOrder":5  ,
+ "SeqOrder":5,
   "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.png"
 },
   {
   "CategoryId":6,
  "CategoryDesc":"Medicines",
   "CategoryGroup":"3",
- "SeqOrder":1   ,
+ "SeqOrder":1,
   "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic3.jpg"
 },
   {
   "CategoryId":7,
  "CategoryDesc":"Fruits & Nuts",
   "CategoryGroup":"4",
- "SeqOrder":1 , 
-     ,
+ "SeqOrder":1, 
   "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.png"
 }]

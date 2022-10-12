@@ -32,7 +32,7 @@
  "CategoryDesc":"Cosmetics",
   "CategoryGroup":"2",
  "SeqOrder":5,
-  "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.png"
+  "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.PNG"
 },
   {
   "CategoryId":6,
@@ -46,5 +46,5 @@
  "CategoryDesc":"Fruits & Nuts",
   "CategoryGroup":"4",
  "SeqOrder":1, 
- "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.png"
+ "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.PNG"
 }]

@@ -4,14 +4,14 @@
  "CategoryDesc":"Food",
   "CategoryGroup":"1",
  "SeqOrder":1 ,
-  "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.png"
+  "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.PNG"
 },
     {
   "CategoryId":2,
  "CategoryDesc":"Eat",
   "CategoryGroup":"1",
  "SeqOrder":2,
-  "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.png"
+  "picsource":"https://raw.githubusercontent.com/ansargithub/evd1/master/images/pic1.PNG"
 },
     {
   "CategoryId":3,
